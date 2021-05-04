@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming and Data science
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on an internship
-- 📫 You can rech me at njoodturki7@gmail.com 
+- 📫 You can reach me at njoodturki7@gmail.com 
 
 <!---
 njoodturki/njoodturki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
